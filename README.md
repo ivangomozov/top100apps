@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27216416/README.md)
 # Sensor Tower — Top-100 Photo & Video Apps (US App Store)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white)
