@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/27216120/README.md)
-# 📊 Sensor Tower — Top-100 Photo & Video Apps (US App Store)
+# Sensor Tower — Top-100 Photo & Video Apps (US App Store)
 
 Скрипт выгружает данные топ-100 приложений категории **Photo & Video** из US App Store через внутренний API Sensor Tower и сохраняет результат в форматированный `.xlsx`-файл.
 
